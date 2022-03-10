@@ -13,4 +13,5 @@ pip install opencv-python
 pip install cvzone
 
 # This is how it should look like!
-[Uploading Screenshot 2022-03-10 at 17.15.06.png…]()
+
+![Screenshot 2022-03-10 at 17 15 06](https://user-images.githubusercontent.com/79054391/157720661-ffb5fc14-9f06-4a9e-950f-b410a2f3e0a9.png)
